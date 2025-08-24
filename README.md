@@ -22,5 +22,5 @@ A command-line application written in Go that allows users to book conference ti
 ## Installation & Running
 Clone the repository and navigate to the project folder:
 ```bash
-git clone https://github.com/<your-username>/go-conference-booking.git
+git clone https://github.com/meedaycodes/go-conference-booking.git
 cd go-conference-booking
